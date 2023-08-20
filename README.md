@@ -19,3 +19,9 @@
 
 ![Скрин3_1](https://github.com/denniskostyuk/Prometheus-1/blob/main/task_3_1.png)
 ![Скрин3_2](https://github.com/denniskostyuk/Prometheus-1/blob/main/task_3_2.png)
+
+### Задание 4
+#### Требования к результату
+Прикрепите к файлу README.md скриншот левого нижнего угла интерфейса, чтобы при наведении на иконку пользователя были видны ваши ФИО
+
+![Скрин4](https://github.com/denniskostyuk/Prometheus-1/blob/main/task_4.png)
