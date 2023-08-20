@@ -25,3 +25,11 @@
 Прикрепите к файлу README.md скриншот левого нижнего угла интерфейса, чтобы при наведении на иконку пользователя были видны ваши ФИО
 
 ![Скрин4](https://github.com/denniskostyuk/Prometheus-1/blob/main/task_4.png)
+
+### Задание 5
+#### Требования к результату
+Прикрепите к файлу README.md скриншот дашборда (ID:11074) с поступающими туда данными из Node Exporter
+
+![Скрин5_1](https://github.com/denniskostyuk/Prometheus-1/blob/main/task_5_1.png)
+![Скрин5_2](https://github.com/denniskostyuk/Prometheus-1/blob/main/task_5_2.png)
+![Скрин5_3](https://github.com/denniskostyuk/Prometheus-1/blob/main/task_5_3.png)
